@@ -1,5 +1,5 @@
 <template>
-  <div class="">
+  <div>
     <div class="scrollshow">x: {{x}}, y: {{y}}</div>
     <div class="scrollWrap" v-ss-scroll="onScroll">
       <div class="scrollContent"></div>
